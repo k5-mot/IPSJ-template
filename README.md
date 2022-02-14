@@ -1,4 +1,4 @@
-# 📘 IPSJ Template
+# 📜 template-IPSJ
 
 📜 Template of IPSJ foramt documents by LaTeX.
 
