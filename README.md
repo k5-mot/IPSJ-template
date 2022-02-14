@@ -1,6 +1,6 @@
-# IPSJ Template
+# 📘 IPSJ Template
 
-Template of IPSJ foramt documents by LaTeX.
+📜 Template of IPSJ foramt documents by LaTeX.
 
 
 ## 🏯 ビルド / Build
@@ -51,14 +51,15 @@ git push origin v0.0.0
 ```
 
 
-## References / 参考文献
+## 🔖 References / 参考文献
 
-+ [LaTeXスタイルファイル、MS-Wordテンプレートファイル](https://www.ipsj.or.jp/journal/submit/style.html)
+- [LaTeXスタイルファイル、MS-Wordテンプレートファイル](https://www.ipsj.or.jp/journal/submit/style.html)
 
-
+<!--
 ## 🍋 License / ライセンス
 
 Copyright (c) 2021-2022 k5-mot All Rights Reserved.
 
 "k5-mot/handout-template" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+-->
 
